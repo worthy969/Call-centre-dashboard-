@@ -31,20 +31,7 @@ Excel- for cleaning and preparing the data and also practical excel concept like
 .Trends should be track monthly to identify what's working best amongst representatives and customer.
 .I would recommend that there should be an increase in the number of Representative to improve customers satisfaction.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![call centre dashboard](https://github.com/user-attachments/assets/f6f5dcee-9657-4552-be6e-eba956ae77b0)
 
 
 
