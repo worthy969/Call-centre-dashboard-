@@ -2,8 +2,8 @@
 This is a 2023 call centre report in the region of COLUMBUS,CLEVELAND And CINCINNATI 
 
 ## Brief Overview Of The Dataset 
-Data was gotten from Kaggle.the data contains 1 Table in csv format-customer id,duration,representative,\
-purchase amount,satisfaction rating,days of the week,gender,age,city.the data had about 1000 rows.
+Data was gotten from Kaggle.the data contains 1 Table in csv format-customer id,duration,representative\
+purchase amount,satisfaction rating,days of the week,gender,age,city.the data had about 1000 rows\
 
 ## Objectives:
 . The number of calls and profit generated\ 
@@ -17,7 +17,7 @@ purchase amount,satisfaction rating,days of the week,gender,age,city.the data ha
 .Total profit generated across all regions:$96,623\
 .Total number of happy callers:307\
 .Representative(2 followed by 3) generated the highest revenue\ 
-.Representative(2 followed by 3 and 1) has the highest 5* rating from customers, with representative 5 having the lowest rating.\
+.Representative(2 followed by 3 and 1) has the highest 5* rating from customers, with representative 5 having the lowest rating\
 
 ## Tools used:
 Excel- for cleaning and preparing the data and also practical excel concept like the\
@@ -29,8 +29,8 @@ Excel- for cleaning and preparing the data and also practical excel concept like
 ## Recommendation:
 .Cincinnati is the key region for growth\ 
 .proper modification amongst the representatives to draw more profit\
-.Trends should be track monthly to identify what's working best amongst representatives and customer.\
-.I would recommend that there should be an increase in the number of Representative to improve customers satisfaction.\
+.Trends should be track monthly to identify what's working best amongst representatives and customer\
+.I would recommend that there should be an increase in the number of Representative to improve customers satisfaction\
 
 ![call centre dashboard](https://github.com/user-attachments/assets/f6f5dcee-9657-4552-be6e-eba956ae77b0)
 
